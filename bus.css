@@ -1,0 +1,25 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background: url("16.jpg");
+    background-attachment:fixed;
+    background-size: 1900px 1040px;
+    background-repeat: no-repeat;
+   
+}
+h1,h2,h4{
+    color:white;
+}
+
+input[type="submit"]{
+ 	
+   border-radius: 5px;
+    border: 0;
+    width: 100px;
+    height:40px;
+    font-family: Tahoma;
+    background-color: white;
+    font-size: 20px;
+}
